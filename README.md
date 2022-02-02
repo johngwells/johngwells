@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 😄 Connect: https://twitter.com/johnwellsio
 - 🔭 I’m currently working on: Next.js, Node.js
 - 🌱 I’m currently learning : Next.js, GraphQL, SQL
 - 📫 How to reach me: johnwells.developer@gmail.com
