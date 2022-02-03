@@ -1,11 +1,10 @@
 ### Hi there 👋
-
-- 😄 Connect: https://twitter.com/johnwellsio
 - 🔭 I’m currently working on: Next.js, Node.js
-- 🌱 I’m currently learning : Next.js, GraphQL, SQL
+- 🌱 I’m currently learning : Next.js, GraphQL
+- 🤔 Tech I've used: Backend: NodeJS, MongoDB, Airtable, Firebase, Hasura w/ Postgres, GraphQL Frontend: React, NextJS, SASS, LESS, CSS Flexbox/Grid
 - 📫 How to reach me: johnwells.developer@gmail.com
 
-![John Wells' GitHub stats](https://github-readme-stats.vercel.app/api?username=johngwells&show_icons=true&theme=merko)
+![John Wells' GitHub stats](https://github-readme-stats.vercel.app/api?username=johngwells&include_all_commits=true&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johngwells&layout=compact)](https://github.com/johngwells/github-readme-stats)
 
 
