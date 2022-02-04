@@ -6,8 +6,6 @@
 - 📫 How to reach me: johnwells.developer@gmail.com
 
 ![John Wells' GitHub stats](https://github-readme-stats.vercel.app/api?username=johngwells&include_all_commits=true&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johngwells&layout=compact)](https://github.com/johngwells/github-readme-stats)
-
 
 <!--
 **johngwells/johngwells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
