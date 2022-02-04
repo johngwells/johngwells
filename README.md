@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on: Next.js, Node.js
 - 🌱 I’m currently learning : Next.js, GraphQL
-- 🤔 Tech I've used: Backend: NodeJS, MongoDB, Airtable, Firebase, Hasura w/ Postgres, knex.js / GraphQL Frontend: React, NextJS, SASS, LESS, CSS Flexbox/Grid
+- 😄 Tech Frontend: React, NextJS, SASS, LESS, CSS Flexbox/Grid
+- 🤔 Tech Backend: NodeJS, MongoDB, Airtable, Firebase, Hasura w/ Postgres, knex.js w/MySql, GraphQL
 - 📫 How to reach me: johnwells.developer@gmail.com
 
 ![John Wells' GitHub stats](https://github-readme-stats.vercel.app/api?username=johngwells&include_all_commits=true&show_icons=true&theme=merko)
