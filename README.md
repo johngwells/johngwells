@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: Electron & low level Node.js
+- 🔭 I’m currently working on: Electron & vanilla Node.js (accessing file systems etc)
 - 🌱 I’m currently learning : Desktop Applications with  Electron & TypeScript
 - 😄 Tech Frontend: TypeScript, React, NextJS, SASS, CSS Flexbox/Grid, Tailwind
 - 🤔 Tech Backend: NodeJS, MongoDB, Airtable, Firebase, Hasura w/ Postgres, knex.js w/MySql, GraphQL
