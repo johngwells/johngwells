@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on: Next.js, Node.js
-- 🌱 I’m currently learning : Next.js, GraphQL
-- 😄 Tech Frontend: React, NextJS, SASS, LESS, CSS Flexbox/Grid
+- 🔭 I’m currently working on: Electron & low level Node.js
+- 🌱 I’m currently learning : Desktop Applications with  Electron & TypeScript
+- 😄 Tech Frontend: TypeScript, React, NextJS, SASS, CSS Flexbox/Grid, Tailwind
 - 🤔 Tech Backend: NodeJS, MongoDB, Airtable, Firebase, Hasura w/ Postgres, knex.js w/MySql, GraphQL
 - 📫 How to reach me: johnwells.developer@gmail.com
 
